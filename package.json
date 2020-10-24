@@ -1,0 +1,19 @@
+{
+  "name": "@npmuser_1/npmclass_scoped",
+  "version": "1.0.0",
+  "description": "The [npmclass](https://xxxx.com/) library exported as [Node.js](https://nodejs.org/) modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfj81525/npmclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xfj81525/npmclass/issues"
+  },
+  "homepage": "https://github.com/xfj81525/npmclass#readme"
+}
